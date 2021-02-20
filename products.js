@@ -32,9 +32,12 @@ class ProductsManagement{
     showProducts(){
         return this.listproducts;
     }
+<<<<<<< HEAD
     showFirstProducts(){
         return this.listproducts[1];
     }
+=======
+>>>>>>> 1ce026cf1adeab19c52dc906c229aa7523ca48e8
 }
 export {Products,  ProductsManagement}
 
