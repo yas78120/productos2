@@ -33,7 +33,7 @@ class ProductsManagement{
         return this.listproducts;
     }
     showFirstProducts(){
-        return this.listproducts[0];
+        return this.listproducts[1];
     }
 }
 export {Products,  ProductsManagement}
